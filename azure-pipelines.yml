@@ -1,6 +1,6 @@
 # This is the completed azure-pipelines.yaml file from previous steps.
 variables:
-  ConnectedServiceName: 'flaskpycon'
+  ConnectedServiceName: 'pyflaskcon'
   WebAppName: 'benwolst-flaskpy'
 
 trigger:
